@@ -4,5 +4,5 @@
 for (var i=0; i<=100; i++) {
 
 	var content = document.querySelector('.copia');
-	content.innerHTML += '<li>Viva JavaScript</li>'
+	content.innerHTML += '<li>He aprendido bien cómo funcionan los bucles <select id= "color" name="color" value="blanco"><option>Blanco</option><option>Azul</option><option>Rojo</option><option>Verde</option><option>Amarillo</option><option>Rosa</option></select></li>'
 }
