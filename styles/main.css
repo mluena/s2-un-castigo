@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+body {
+background-image: url('../images/pizarra.jpg');
+background-repeat: no-repeat;
+font-family: 'Pangolin', cursive;
+}
+ul {
+	list-style: none;
+	color: white;
+	font-size: 14px;
+}
